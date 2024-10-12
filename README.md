@@ -38,7 +38,7 @@ Il vostro compito è creare un **gioco interattivo** utilizzando HTML, CSS e Jav
   - **5 punti** per una corretta struttura HTML.
   - **5 punti** per uno stile CSS semplice ma chiaro.
   - **7 punti** per una logica JavaScript corretta, che include l'incremento del punteggio e il movimento casuale del bottone.
-  - Punti **bonus** per funzionalità extra.
+  - **3 punti** punti **bonus** per funzionalità extra.
 
 ### **Consegna:**
 - Salvate il vostro progetto in una cartella chiamata `Clickone_NomeCognome`.
